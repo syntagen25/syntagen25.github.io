@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+html, body {
+  height: auto;
+  min-height: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+img {
+  max-width: none;
+  // border-radius: 50%;
+}
+
+org-image .img {
+  border-radius: 50%;
+}
+em img {
+  max-width: 100%;
+  margin-left: 0;
+}
+
+body {
+          box-sizing: border-box;
+     -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.wrapper {
+    max-width: -webkit-calc(1000px - (#{$horizontal-spacing-unit} * 2));
+    max-width:         calc(1000px - (#{$horizontal-spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $horizontal-spacing-unit;
+    padding-left: $horizontal-spacing-unit;
+    @extend .clearfix;
+}
+
+.wrapper-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 35px;
+  padding-top: 0px;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+
+    <div class="page-content">
+      
+      <div class="header-background"><div class="img"></div></div>
+      <div class="wrapper-button">
+        <a href="./" style="display: inline-block; margin: 0px 10px; padding: 10px 20px; background-color: #4a90e2; color: white; text-decoration: none; border-radius: 5px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+            Home
+        </a>
+        <a href="#speakers" style="display: inline-block; margin: 0px 10px; padding: 10px 20px; background-color: #4a90e2; color: white; text-decoration: none; border-radius: 5px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+            Speakers
+        </a>
+        <a href="#schedule" style="display: inline-block; margin: 0px 10px; padding: 10px 20px; background-color: #4a90e2; color: white; text-decoration: none; border-radius: 5px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+            Schedule
+        </a>
+        <a href="#call-for-papers" style="display: inline-block; margin: 0px 10px; padding: 10px 20px; background-color: #4a90e2; color: white; text-decoration: none; border-radius: 5px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+            Call for Papers
+        </a>
+        <a href="#syntagen-competition" style="display: inline-block; margin: 0px 10px; padding: 10px 20px; background-color: #4a90e2; color: white; text-decoration: none; border-radius: 5px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+            Challenge
+        </a>
+        <a href="#organizers" style="display: inline-block; margin: 0px 10px; padding: 10px 20px; background-color: #4a90e2; color: white; text-decoration: none; border-radius: 5px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+            Organizers
+        </a>
+    </div>
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include hemline.html %}
+
+  </body>
+
+</html>
