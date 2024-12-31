@@ -109,15 +109,25 @@
     }
 }
 
+// .header-background .img {
+//   background-image: url('../img2/teaser-2.jpg');
+//   background-repeat: no-repeat;
+//   background-size: 900px, 900px;
+//   background-position: center 5%;
+//   height: 30em;
+//   margin-bottom: 2em;
+//   margin-top: -2.7em;
+// }
+
 .header-background .img {
-  background-image: url('../img2/teaser-2.jpg');
-  background-repeat: no-repeat;
-  background-size: 900px, 900px;
-  background-position: center 5%;
-  height: 30em;
-  margin-bottom: 2em;
-  margin-top: -2.7em;
-}
+    background-image: url('../img2/teaser-2.jpg');
+    background-repeat: no-repeat;
+    background-size: contain; /* Ensures the image covers the entire area */
+    background-position: center; /* Centers the image */
+    height: 50em; /* Increase height for better visibility */
+    margin-bottom: 2em;
+    margin-top: -2.7em;
+  }
 
 .header-background .text {
   margin-top: -4em;

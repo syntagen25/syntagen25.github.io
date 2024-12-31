@@ -151,9 +151,8 @@ Computer vision has been rapidly transformed by advancements in generative model
 * TBD 
 
 ### **Call for Papers**
-* TBD
 
-#### Topics
+#### **Topics**
 The main objective of the SyntaGen workshop is to offer a space for researchers, practitioners, and enthusiasts to investigate, converse, and cooperate on the development, use, and potential uses of synthetic visual datasets made from generative models. The workshop will cover various topics, including but not restricted to:
 * Leveraging pre-trained generative models to generate data and annotations for perception-driven tasks, including image classification, representation learning, object detection, semantic and instance segmentation, relationship detection, action recognition, object tracking, and 3D shape reconstruction and recognition.
 * Extending the generative capacity of large-scale pre-trained text-to-image models to other domains, such as videos, 3D, and 4D spaces.
@@ -175,7 +174,7 @@ The main objective of the SyntaGen workshop is to offer a space for researchers,
 
 
 ### **Organizers**
-<!-- 
+
 <table style="width:100%">
   <tr>
     <td style="text-align:center border-radius:50%">
@@ -201,9 +200,8 @@ The main objective of the SyntaGen workshop is to offer a space for researchers,
     <td style="text-align:center"><a href="https://www.supasorn.com/">Supasorn Suwajanakorn</a> <br>VISTEC, Thailand</td>
     <td style="text-align:center"><a href="https://zhouyisjtu.github.io/">Yi Zhou</a><br>Adobe</td>
   </tr>
-</table> -->
+</table>
 
-* TBD
 
 <!-- ### **Volunteers** -->
 
@@ -225,10 +223,7 @@ The main objective of the SyntaGen workshop is to offer a space for researchers,
 
 ### **Organizers affiliations**
 
-* TBD
-
 <!-- <td style="text-align:center"><a href="https://vinuni.edu.vn/college-of-engineering-computer-science/"><img src="assets/img/inst-vinuni-cecs.png" height="75"></a></td>
-<br>
 
 <td style="text-align:center"><a href="https://www.cs.umd.edu/"><img src="assets/img/inst-umd-cs.png" height="75"></a></td>
 <br>
@@ -248,11 +243,11 @@ The main objective of the SyntaGen workshop is to offer a space for researchers,
 
 <td style="text-align:center"><a href="https://www.nyu.edu/"><img src="assets/img/New_York_University-Logo.png" height="75"></a></td> -->
 
-<!-- <table style="width:100%; align: left; border: none; spacing: none">
+<table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.vinai.io/"><img src="assets/img/inst-vinai.png" height="60"></a></td>  
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.tcd.ie/"><img src="assets/img2/aff-tcd.png" height="80"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.vistec.ac.th/"><img src="assets/img2/aff-vistec.jpeg" height="70"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://research.adobe.com/"><img src="assets/img2/aff-adobe.jpg" height="70"></a></td>
   </tr>
-</table> -->
+</table> 
