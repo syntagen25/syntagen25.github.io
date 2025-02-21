@@ -29,34 +29,33 @@ Computer vision has been rapidly transformed by advancements in generative model
 
 ### **Speakers**
 
-* **TBD**
-
-<!-- <table style="width:100%">
+<table style="width:100%">
   <tr>
     <td style="text-align:center border-radius:50%">
-      <a href="https://www.cs.toronto.edu/~fleet/"><img src="assets/img2/david.jpg" style="border-radius:50%;" height="150" width="150"></a>
+      <a href="https://varunjampani.github.io/"><img src="assets/img2/varun.jpeg" style="border-radius:50%;" height="150" width="150"></a>
     </td>
     <td style="text-align:center">
-      <a href="https://web.mit.edu/phillipi/"><img src="assets/img2/philip_isola.jpg" style="border-radius:50%;" height="150" width="150"></a>
+      <a href="https://research.adobe.com/person/nathan-carr/"><img src="assets/img2/nathan.png" height="150" width="150" style="border-radius:50%;"></a>
     </td>
     <td style="text-align:center">
       <a href="https://jbhuang0604.github.io/"><img src="assets/img2/jinbin2.jpg" height="150" width="150" style="border-radius:50%;"></a>
     </td>
     <td style="text-align:center">
-      <a href="https://www.weizmann.ac.il/math/dekel/"><img src="assets/img2/TaliDekel_w4.jpg" height="150" width="150" style="border-radius:50%;"></a>
+      <a href="https://stulyakov.com/"><img src="assets/img2/sergrey.jpg" height="150" width="150" style="border-radius:50%;"></a>
     </td>
     <td style="text-align:center">
-      <a href="https://research.adobe.com/person/nathan-carr/"><img src="assets/img2/nathan.png" height="150" width="150" style="border-radius:50%;"></a>
+      <a href="https://ssundaram21.github.io/"><img src="assets/img2/shobhita.png" height="150" width="150" style="border-radius:50%;"></a>
     </td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~fleet/">David J Fleet</a><br>Professor<br>University of Toronto, Google DeepMind</td>
-    <td style="text-align:center"><a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>Associate Professor<br>MIT</td>
-    <td style="text-align:center"><a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a><br>Associate Professor<br>University of Maryland College Park</td>
-    <td style="text-align:center"><a href="https://www.weizmann.ac.il/math/dekel/">Tali Dekel</a><br>Assistant Professor<br>Weizmann Institute of Science</td>
+    <td style="text-align:center"><a href="https://varunjampani.github.io/">Varun Jampani</a><br>VP Research<br>Stability AI</td>
     <td style="text-align:center"><a href="https://research.adobe.com/person/nathan-carr/">Nathan Carr</a><br>Adobe Fellow<br>Adobe Research</td>
+    <td style="text-align:center"><a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a><br>Associate Professor<br>University of Maryland College Park</td>
+    <td style="text-align:center"><a href="https://stulyakov.com/">Sergey Tulyakov</a><br>Director of Research<br>Snap Inc.</td>
+    <td style="text-align:center"><a href="https://ssundaram21.github.io/">Shobhita Sundaram</a><br>PhD Student<br>MIT</td>
+    
   </tr>
-</table> -->
+</table>
 
 ### **Schedule**
 
