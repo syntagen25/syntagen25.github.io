@@ -32,7 +32,7 @@ Computer vision has been rapidly transformed by advancements in generative model
 <table style="width:100%">
   <tr>
     <td style="text-align:center border-radius:50%">
-      <a href="https://varunjampani.github.io/"><img src="assets/img2/varun.jpeg" style="border-radius:50%;" height="150" width="150"></a>
+      <a href="https://varunjampani.github.io/"><img src="assets/img2/varun2.jpeg" style="border-radius:50%" height="150" width="150"></a>
     </td>
     <td style="text-align:center">
       <a href="https://research.adobe.com/person/nathan-carr/"><img src="assets/img2/nathan.png" height="150" width="150" style="border-radius:50%;"></a>
@@ -52,7 +52,7 @@ Computer vision has been rapidly transformed by advancements in generative model
     <td style="text-align:center"><a href="https://research.adobe.com/person/nathan-carr/">Nathan Carr</a><br>Adobe Fellow<br>Adobe Research</td>
     <td style="text-align:center"><a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a><br>Associate Professor<br>University of Maryland College Park</td>
     <td style="text-align:center"><a href="https://stulyakov.com/">Sergey Tulyakov</a><br>Director of Research<br>Snap Inc.</td>
-    <td style="text-align:center"><a href="https://ssundaram21.github.io/">Shobhita Sundaram</a><br>PhD Student<br>MIT</td>
+    <td style="text-align:center"><a href="https://ssundaram21.github.io/">Shobhita Sundaram</a><br>MIT</td>
     
   </tr>
 </table>
