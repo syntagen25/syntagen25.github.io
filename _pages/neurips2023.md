@@ -168,7 +168,7 @@ The main objective of the SyntaGen workshop is to offer a space for researchers,
 
 * Submission deadline: **March 22nd, 11:59 PM PST**
 * Decision Release: **April 3rd, 11:59 PM PST**
-* Camera Ready: **April 14th, 11:59 PM PST**
+* Camera Ready: **April 7th, 11:59 PM PST (Included in Proceedings) or April 14th, 11:59 PM PST (Not included in Proceedings)**
 * Workshop date: **Jun 11th or 12th**
 
 
