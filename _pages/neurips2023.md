@@ -161,6 +161,19 @@ The main objective of the SyntaGen workshop is to offer a space for researchers,
 * Evaluating the quality and effectiveness of the generated datasets, particularly on metrics, challenges, and open problems related to benchmarking synthetic visual datasets.
 * Ethical implications of using synthetic annotated data, strategies for mitigating biases, verifying and protecting generated visual contents, and ensuring responsible data generation and annotation practices.
 
+#### **Submisison Instructions**
+Submissions should be anonymized and formatted using the [CVPR 2025 template](https://github.com/cvpr-org/author-kit/releases) and uploaded as a single PDF.
+
+<p style="color:red;"><b>Notes for registering a new OpenReview account</b></p>
+* New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
+* New profiles created with an institutional email will be activated automatically.
+
+#### **Supplemental Material**
+Supplemental materials optionally can be submitted along the paper manuscript on the submission deadline. They must be anonymized and uploaded either as a single PDF or a ZIP file.
+
+#### **Submission Link**
+
+[Openreview submission link](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/SyntaGen#tab-your-consoles)
 
 #### **Important workshop dates**
 
