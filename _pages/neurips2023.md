@@ -184,10 +184,14 @@ Supplemental materials optionally can be submitted along the paper manuscript on
 <!-- * TBD -->
 
 * Submission deadline: **March 22nd, 11:59 PM PST**
-* Decision Release: **April 3rd, 11:59 PM PST**
-* Camera Ready: **April 7th, 11:59 PM PST (Included in Proceedings) or April 14th, 11:59 PM PST (Not included in Proceedings)**
+* Review and Decision release: ~~April 3rd, 11:59 PM PST~~ **March 30th, 11:59 PM PST**
+* Metadata Submission for included in CVPR workshop’s proceedings **(new)**: **March 31st, 11:59 PM PST**
+* Camera Ready: ~~April 7th, 11:59 PM PST (Included in Proceedings) or April 14th, 11:59 PM PST (Not included in Proceedings)~~ **April 14th, 11:59 PM PST** for included and non-included in CVPR workshop's proceedings.
 * Workshop date: **Jun 11th or 12th**
 
+<!-- Mar 30: Review and decision release
+Mar 31 (new): Metadata Submission for included in CVPR workshop’s proceedings
+April 14th: Camera ready for both options: included and non-included in CVPR workshop’s proceedings -->
 
 ### **Organizers**
 
