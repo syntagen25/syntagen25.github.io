@@ -265,7 +265,7 @@ April 14th: Camera ready for both options: included and non-included in CVPR wor
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.qualcomm.com/research/artificial-intelligence"><img src="assets/img2/Q_logo.png" height="60"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.qualcomm.com/research/artificial-intelligence"><img src="assets/img2/Q_logo.png" height="100"></a></td>  
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.tcd.ie/"><img src="assets/img2/aff-tcd.png" height="80"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.vistec.ac.th/"><img src="assets/img2/aff-vistec.jpeg" height="70"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://research.adobe.com/"><img src="assets/img2/aff-adobe.jpg" height="70"></a></td>
