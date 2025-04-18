@@ -214,8 +214,8 @@ April 14th: Camera ready for both options: included and non-included in CVPR wor
     </td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://khoinguyen.org">Khoi Nguyen</a> <br>VinAI Research, Vietnam</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FYZ5ODQAAAAJ&hl=en">Anh Tuan Tran</a> <br>VinAI Research, Vietnam</td>
+    <td style="text-align:center"><a href="https://khoinguyen.org">Khoi Nguyen</a> <br>Qualcomm AI Research, Vietnam</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FYZ5ODQAAAAJ&hl=en">Anh Tuan Tran</a> <br>Qualcomm AI Research, Vietnam</td>
     <td style="text-align:center"><a href="https://sonhua.github.io/">Binh Son Hua</a><br>Trinity College Dublin, Ireland</td>
     <td style="text-align:center"><a href="https://www.supasorn.com/">Supasorn Suwajanakorn</a> <br>VISTEC, Thailand</td>
     <td style="text-align:center"><a href="https://zhouyisjtu.github.io/">Yi Zhou</a><br>Adobe</td>
@@ -265,7 +265,7 @@ April 14th: Camera ready for both options: included and non-included in CVPR wor
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.vinai.io/"><img src="assets/img/inst-vinai.png" height="60"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.qualcomm.com/research/artificial-intelligence"><img src="assets/img2/Q_logo.png" height="60"></a></td>  
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.tcd.ie/"><img src="assets/img2/aff-tcd.png" height="80"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.vistec.ac.th/"><img src="assets/img2/aff-vistec.jpeg" height="70"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://research.adobe.com/"><img src="assets/img2/aff-adobe.jpg" height="70"></a></td>
