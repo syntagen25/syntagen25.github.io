@@ -133,7 +133,17 @@ Computer vision has been rapidly transformed by advancements in generative model
 </table>
 
 ### **Accepted Papers**
-* TBD 
+**[Oral]** [NeIn: Telling What You Don’t Want](https://openreview.net/forum?id=6oNlkmuxYg). Nhat-Tan Bui, Dinh-Hieu Hoang, Quoc-Huy Trinh, Minh-Triet Tran, Truong Nguyen, Susan Gauch \
+**[Oral]** [Latent Video Dataset Distillation](https://openreview.net/forum?id=i665TIHv92). Ning Li, Antai Andy Liu, Jingran Zhang, Justin Cui \
+**[Oral]** [Eye Tell the Truth: GazeVal Highlights Shortcomings of Generative AI in Medical Imaging](https://openreview.net/forum?id=m0qWnLwRNm). David Wong, Bin Wang, Gorkem Durak, Marouane Tliba, Akshay S Chaudhari, Aladine Chetouani, Ahmet Enis Cetin, Cagdas Topel, Nicolo Gennaro, Camila Lopes Vendrami, Tugce Agirlar Trabzonlu, Amir Ali Rahsepar, Laetitia Perronne, Matthew Antalek, Onural Ozturk, Gokcan Okur, Andrew C Gordon, Ayis Pyrros, Frank H Miller, Amir A. Borhani, Hatice Savas, Eric Hart, Drew Torigian, Jayaram K Udupa, Elizabeth Anne Krupinski, Ulas Bagci  \
+**[Poster]** [Bridging 3D Editing and Geometry-Consistent Paired Dataset Creation for 2D Nighttime-to-Daytime Translation](https://openreview.net/forum?id=7UXOSWZ0C8). Xiao Cao, Yuyang Zhao, Robby T. Tan, Zhiyong Huang \
+**[Poster]** [VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors](https://openreview.net/forum?id=HqswBG16Pi). Juil Koo, Paul Guerrero, Chun-Hao Paul Huang, Duygu Ceylan, Minhyuk Sung \
+**[Poster]** [Noise Consistency Regularization for Improved Subject-Driven Image Synthesis](https://openreview.net/forum?id=5LvxYOSPku). Yao Ni, Song Wen, Piotr Koniusz, Anoop Cherian \
+**[Poster]** [AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection](https://openreview.net/forum?id=Y8wEJRCFrF). Ying Zhao \
+**[Poster]** [SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation](https://openreview.net/forum?id=S4SrbuOEcz). Yonwoo Choi \
+**[Poster]** [good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval](https://openreview.net/forum?id=8ckgIZeKCa). Pranavi Kolouju, Eric Xing, Robert Pless, Nathan Jacobs, Abby Stylianou \
+**[Poster]** [Syn3DTxt: Embedding 3D Cues for Scene Text Generation](https://openreview.net/forum?id=QmY75NG5Vp). Li-Syun Hsiung, Jun Kai Tu, Kuan-wu Chu, Yu-Hsuan Chiu, Yan-Tsung Peng, Sheng-Luen Chung, Gee-Sern Jison Hsu 
+
 
 ### **Call for Papers**
 We invite papers to propel the development of generative models and/or the use of their synthetic visual datasets for training and evaluating computer vision models. Accepted papers will be presented in the poster session in our workshop. We welcome submissions along two tracks:
