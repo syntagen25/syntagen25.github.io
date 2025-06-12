@@ -59,21 +59,7 @@ Computer vision has been rapidly transformed by advancements in generative model
 
 ### **Schedule**
 
-* **TBD**
-
-<!-- | **Time**  | **Event**                                                | **Duration** | **Speaker** |
-|-------|------------------------------------------------------|----------|---------|
-| 8:25  | Introduction (Gift giveaway)                         | 5 mins   | TBD     |
-| 8:30  | Competition session & Winners talks & Oral presentation | 30 mins  | TBD     |
-| 9:00  | Invited talk 1                                        | 25 mins  | TBD     |
-| 9:25  | Invited talk 2                                        | 25 mins  | TBD     |
-| 9:50  | Break (Gift giveaway)                                | 10 mins  | TBD     |
-| 10:00 | Invited talk 3                                        | 25 mins  | TBD     |
-| 10:25 | Invited talk 4                                        | 25 mins  | TBD     |
-| 10:50 | Invited talk 5                                        | 25 mins  | TBD     |
-| 11:15 | Panel discussion                                      | 25 mins  | TBD     |
-| 11:40 | Poster Session                                        | 40 mins  |      | -->
-<!-- <table>
+<table>
   <thead>
     <tr>
       <th style="text-align:left;">Time</th>
@@ -84,28 +70,28 @@ Computer vision has been rapidly transformed by advancements in generative model
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left;">8:25</td>
+      <td style="text-align:left;">8:30</td>
       <td>Introduction</td>
-      <td style="text-align:left;">5 mins</td>
+      <td style="text-align:left;">10 mins</td>
       <td style="text-align:left;"></td>
     </tr>
     <tr>
-      <td style="text-align:left;">8:30</td>
-      <td>Competition session & Winners talks & Oral presentation</td>
-      <td style="text-align:left;">30 mins</td>
+      <td style="text-align:left;">8:35</td>
+      <td>Oral presentation</td>
+      <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;"></td>
     </tr>
     <tr>
       <td style="text-align:left;">9:00</td>
-      <td>Invited talk 1: Promising Generative Data Augmentation</td>
+      <td><b>Invited talk 1: </b> Inventing Data: An Industry Perspective</td>
       <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;"><b>David Fleet</b></td>
+      <td style="text-align:left;"><b>Nathan Carr</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">9:25</td>
-      <td>Invited talk 2: Re-inventing the Factory - the new AI Software Lifecycle</td>
+      <td><b>Invited talk 2:</b> Beyond 3D: Generating Volumetric Scenes with Motion</td>
       <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;"><b>Nathan Carr</b></td>
+      <td style="text-align:left;"><b>Sergey Tulyakov</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">9:50</td>
@@ -115,36 +101,36 @@ Computer vision has been rapidly transformed by advancements in generative model
     </tr>
     <tr>
       <td style="text-align:left;">10:00</td>
-      <td>Invited talk 3: Poor Man’s Guide for Aligned Text-to-Image Synthesis</td>
+      <td><b>Invited talk 3:</b> Personalized Representation from Personalized Generation</td>
+      <td style="text-align:left;">25 mins</td>
+      <td style="text-align:left;"><b>Shobhita Sundaram</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">10:25</td>
+      <td><b>Invited talk 4: </b>  Learning to Recreate Reality</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;"><b>Jia-Bin Huang</b></td>
     </tr>
     <tr>
-      <td style="text-align:left;">10:25</td>
-      <td>Invited talk 4: N=0: Learning Vision with Zero Visual Data</td>
-      <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;"><b>Phillip Isola</b></td>
-    </tr>
-    <tr>
       <td style="text-align:left;">10:50</td>
-      <td>Invited talk 5: The Future of Video Generation: Beyond Data and Scale</td>
+      <td><b>Invited talk 5:</b> Diffusion Dialed in: Light and Heavy Adaptation of Diffusion Models for Complex Vision Tasks</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;"><b>Tali Dekel</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">11:15</td>
-      <td>Panel discussion: Tali Dekel, Phillip Isola, Nathan Carr</td>
+      <td>Panel discussion</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
       <td style="text-align:left;">11:40</td>
       <td>Poster Session</td>
-      <td style="text-align:left;">50 mins</td>
+      <td style="text-align:left;">60 mins</td>
       <td style="text-align:left;"></td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 ### **Accepted Papers**
 * TBD 
@@ -192,6 +178,16 @@ Supplemental materials optionally can be submitted along the paper manuscript on
 <!-- Mar 30: Review and decision release
 Mar 31 (new): Metadata Submission for included in CVPR workshop’s proceedings
 April 14th: Camera ready for both options: included and non-included in CVPR workshop’s proceedings -->
+
+### **Workshop Sponsors**
+<table style="width:100%; align: left; border: none; spacing: none">
+  <tr style="border: none; spacing: none">
+    <td style="text-align:center; border: none; spacing: none"><a href="https://research.adobe.com/"><img src="assets/img2/aff-adobe.jpg" height="70"></a></td>
+  </tr>
+  <tr style="border: none; spacing: none"> 
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.adobe.com/"><b>Adobe</b></a></td>
+  </tr>
+</table>
 
 ### **Organizers**
 
