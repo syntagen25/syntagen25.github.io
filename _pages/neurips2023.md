@@ -115,7 +115,7 @@ Computer vision has been rapidly transformed by advancements in generative model
       <td style="text-align:left;">10:50</td>
       <td><b>Invited talk 5:</b> Diffusion Dialed in: Light and Heavy Adaptation of Diffusion Models for Complex Vision Tasks</td>
       <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;"><b>Tali Dekel</b></td>
+      <td style="text-align:left;"><b>Varun Jampani</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">11:15</td>
